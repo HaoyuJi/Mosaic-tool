@@ -22,5 +22,5 @@ python headTracker.py --input_path D:/assessment/original/ --output_path D:/asse
 ```
 For headTracker_cheat.py, run:
 ```
-python headTracker_cheat.py --input_path D:/assessment/original/ --output_path D:/assessment/detect/
+python headTracker_cheat.py --input_path D:/assessment/original/ --output_path D:/assessment/detect/ --cheat_path D:/assessment/origin.mp4
 ```
